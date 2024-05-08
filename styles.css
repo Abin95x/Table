@@ -1,0 +1,42 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.header-row {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: lightgray;
+}
+
+.first-column {
+    background-color: lightgrey;
+    width: 20%;
+    height: 30px;
+}
+
+
+.table th,
+.table td {
+    border: 1px solid lightslategray;
+    /* padding: 8px; */
+    text-align: center; 
+  
+}
+
+.input {
+    background-color: lightgray;
+    border: none;
+    text-align: center;
+    height: 30px;
+    width: 400px;
+   
+}
+
+.btn {
+    height: 40px;
+    width: 70px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
